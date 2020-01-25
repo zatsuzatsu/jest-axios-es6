@@ -1,6 +1,6 @@
 # Jest Axios ES6 Sample
 
-![](https://github.com/<OWNER>/<REPOSITORY>/workflows/<WORKFLOW_NAME>/badge.svg)
+![](https://github.com/zatsuzatsu/jest-axios-es6/workflows/Test/badge.svg)
 
 sample of jest axios on es6
 
